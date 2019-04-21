@@ -1,0 +1,13 @@
+git status
+git branch design
+git checkout design
+git add
+git config user.name 'name'
+git config user.email email
+git pull
+git push
+git branch -D nome branch -- deleta branch
+git push -u origin design -- cria uma branch remota design no repositório referente ao origin e cria uma ligação.
+git branch -r lista branchs remotas
+git branch -a lista todas as branchs
+git branch -t cria referência entre uma branch local e uma branch remota
