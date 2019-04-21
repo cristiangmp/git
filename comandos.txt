@@ -18,7 +18,23 @@ git commit -m 'mensagem'
 git pull origin master
 git mergetool
 git mergetool -t nome_do_programa
+<<<<<<< c5a778401e792e684f5a7be3c3cf2790b0b26600
 git commit -b -m 'mensagem'
 git rebase master desenvolvimento
 git checkout -b testerebase
+git rebase master
+git rebase continue, abort ou skip (nome branch)
+git reset --hard
+git reset --soft
+git reset 
+git stash
+git stash pop
+git stash apply
+git stash drop
+git log --pretty=oneline
+git log --stat
+teste
+
+=======
+>>>>>>> comandos
 
