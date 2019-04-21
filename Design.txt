@@ -1,6 +1,0 @@
-<html> 
-<head> Design Curso Alura
-</head>
-<body> Cursando Git, Aula 4 Alura
-</body>
-</html>
