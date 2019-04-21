@@ -18,4 +18,7 @@ git commit -m 'mensagem'
 git pull origin master
 git mergetool
 git mergetool -t nome_do_programa
+git commit -b -m 'mensagem'
+git rebase master desenvolvimento
+git checkout -b testerebase
 
