@@ -11,3 +11,11 @@ git push -u origin design -- cria uma branch remota design no repositório refere
 git branch -r lista branchs remotas
 git branch -a lista todas as branchs
 git branch -t cria referência entre uma branch local e uma branch remota
+git checkout -b -- cria uma nova branch e já muda automaticamente, mas não cria link entre a nova branch local e a branch remota.
+git push origin design -- atualizar os commits do repositório remoto.
+git push origin :design -- este comando removev a branch remota design.
+git commit -m 'mensagem'
+git pull origin master
+git mergetool
+git mergetool -t nome_do_programa
+
